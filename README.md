@@ -1,2 +1,2 @@
-# Algoritham-In-Python
-Array and Linked list Algoritham in Python
+# Algorithm-In-Python
+Array and Linked list Algorithm in Python
